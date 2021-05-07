@@ -49,7 +49,7 @@ client.load_extension("jishaku")
 
 keep_alive()
 print(f"Session opened at {datetime.datetime.utcnow()}")
-client.run(os.getenv('ODQwMTU1MDY5MzU3NzUyMzUx.YJUFYQ.36TcWaQICBtADx8Ywh09JHy5oho'))
+client.run(os.getenv(''))
 print(f"Session closed at {datetime.datetime.utcnow()}")
 
 
